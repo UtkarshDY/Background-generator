@@ -7,7 +7,7 @@ function Preview({ colors, gradientType }) {
 
   return (
     <div className="preview" style={{ background: gradient }}>
-      <p>Preview</p>
+      
     </div>
   );
 }
